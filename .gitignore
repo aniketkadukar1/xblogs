@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+local_settings.py
+
+# Database files
+*.sqlite3
+
+# Static files
+/static/
+*.pyc
+*.db
+
+# Media files
+/media/
+
+# Virtual environment
+venv/
+*venv
+venv*
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Log files
+*.log
+
+# Secret key
+secret_key.txt
+
+# Site configuration
+*.conf
+
+# Development database
+db.sqlite3
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# macOS Finder files
+.DS_Store
+
+# Compiled JavaScript
+*.js.map
+
+# Compiled CSS
+*.css.map
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore migrations if you're using separate database for development and production
+# appname/migrations/
